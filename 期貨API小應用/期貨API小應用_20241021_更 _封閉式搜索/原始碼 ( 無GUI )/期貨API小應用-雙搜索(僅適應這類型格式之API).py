@@ -70,9 +70,24 @@ url_6 = "https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersD
 url_All = [url_1,url_2,url_3,url_4,url_5,url_6]
 url_All_chTitle = ["日-區分各期貨契約","週-區分各期貨契約","日-區分各選擇權契約","週-區分各選擇權契約","日-選擇權買賣權分計","週-選擇權買賣權分計"]
 
+url=""
 
-
-
+input_number = input("number 1 to 6:")
+n = 0
+while n==0:
+    if input_number == "1":
+        url = url_All[0]
+    elif input_number == "2":
+        url = url_All[1]
+    elif input_number == "3":
+        url = url_All[2]
+    elif input_number == "4":
+        url = url_All[3]
+    elif input_number == "5":
+        url = url_All[4]
+    elif input_number == "6":
+        url = url_All[5]
+    break
 # 發送 GET 請求
 response = requests.get(url)
 
