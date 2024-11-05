@@ -1,0 +1,268 @@
+﻿股票期貨/選擇權調整型契約資訊內容: https://openapi.taifex.com.tw/v1/SSFAdjustedInfo
+
+股票期貨調整開盤參考價(盤後交易時段): https://openapi.taifex.com.tw/v1/SSFRefferedOpeningPriceAh
+
+每年個股期貨交易量統計表（區分股票與ETF）test: https://openapi.taifex.com.tw/v1/va14testa
+
+股票期貨/選擇權調整開盤參考價: https://openapi.taifex.com.tw/v1/SSFRefferedOpeningPrice
+
+股票期貨/選擇權契約調整一覽事項: https://openapi.taifex.com.tw/v1/ContractAdj
+
+期貨每日交易行情: https://openapi.taifex.com.tw/v1/DailyMarketReportFut
+
+選擇權每日交易行情: https://openapi.taifex.com.tw/v1/DailyMarketReportOpt
+
+選擇權每日Delta值: https://openapi.taifex.com.tw/v1/DailyOptionsDelta
+
+臺指選擇權Put/Call比: https://openapi.taifex.com.tw/v1/PutCallRatio
+
+鉅額交易逐筆撮合之單式委託成交: https://openapi.taifex.com.tw/v1/BlockTradeContinuousMatchingSingleOrder
+
+鉅額交易逐筆撮合之組合式委託成交: https://openapi.taifex.com.tw/v1/BlockTradeContinuousMatchingCombinationOrder
+
+鉅額交易議價申報成交: https://openapi.taifex.com.tw/v1/BlockTradeNegotiation
+
+鉅額交易各商品成交資訊: https://openapi.taifex.com.tw/v1/BlockTrade
+
+三大法人-總表-依日期: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersGeneralBytheDate
+
+三大法人-總表-依週別: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersGeneralBytheWeek
+
+三大法人-區分期貨與選擇權二類-依日期: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheDate
+
+三大法人-區分期貨與選擇權二類-依週別: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDividedByFuturesAndOptionsBytheWeek
+
+三大法人-區分各期貨契約-依日期: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheDate
+
+三大法人-區分各期貨契約-依週別: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfFuturesContractsBytheWeek
+
+三大法人-區分各選擇權契約-依日期: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheDate
+
+三大法人-區分各選擇權契約-依週別: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfOptionsContractsBytheWeek
+
+三大法人-選擇權買賣權分計-依日期: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheDate
+
+三大法人-選擇權買賣權分計-依週別: https://openapi.taifex.com.tw/v1/MarketDataOfMajorInstitutionalTradersDetailsOfCallsAndPutsBytheWeek
+
+期貨大額交易人未沖銷部位資料: https://openapi.taifex.com.tw/v1/OpenInterestOfLargeTradersFutures
+
+選擇權大額交易人未沖銷部位資料: https://openapi.taifex.com.tw/v1/OpenInterestOfLargeTradersOptions
+
+每日外幣參考匯率: https://openapi.taifex.com.tw/v1/DailyForeignExchangeRates
+
+個股類全市場部位限制: https://openapi.taifex.com.tw/v1/TotalMarketPositionLimitForSingleStockFuturesAndEquityOptions
+
+股票期貨契約調整開盤參考價: https://openapi.taifex.com.tw/v1/SingleStockFuturesContractReferredOpeningPrice
+
+期交所期貨暨選擇權商品相關費用表: https://openapi.taifex.com.tw/v1/FuturesAndOptionsFeeSchedule
+
+最後結算價: https://openapi.taifex.com.tw/v1/FinalSettlementPrice
+
+到期契約履約交割: https://openapi.taifex.com.tw/v1/SettledPositionsOfContractsOnExpirationDate
+
+保證金一覽表-股價指數類: https://openapi.taifex.com.tw/v1/IndexFuturesAndOptionsMargining
+
+保證金一覽表-利率類: https://openapi.taifex.com.tw/v1/InterestRateFuturesMargining
+
+保證金一覽表-商品類: https://openapi.taifex.com.tw/v1/GoldFuturesAndOptionsMargining
+
+保證金一覽表-股票類: https://openapi.taifex.com.tw/v1/SingleStockFuturesMargining
+
+保證金一覽表-股票類(ETF): https://openapi.taifex.com.tw/v1/SingleStockFuturesETFMargining
+
+有價證券保證金之可抵繳標的-公債: https://openapi.taifex.com.tw/v1/AcceptableCollateralGovernmentBonds
+
+有價證券保證金之可抵繳標的-國際債: https://openapi.taifex.com.tw/v1/AcceptableCollateralInternationalBonds
+
+有價證券保證金之可抵繳標的-股票(含ETF): https://openapi.taifex.com.tw/v1/AcceptableCollateralStock
+
+期貨商每股淨值明細表: https://openapi.taifex.com.tw/v1/NetValuePerShareStatement
+
+期貨商稅前累計損益明細表: https://openapi.taifex.com.tw/v1/AccumulatedIncomeStatementBeforeTaxStatement
+
+期貨商交易量日報表－期貨: https://openapi.taifex.com.tw/v1/Daily_FUT
+
+期貨商交易量週報表－期貨: https://openapi.taifex.com.tw/v1/Weekly_FUT
+
+期貨商交易量月報表－期貨: https://openapi.taifex.com.tw/v1/Monthly_FUT
+
+期貨商交易量年報表－期貨: https://openapi.taifex.com.tw/v1/Yearly_FUT
+
+期貨商交易量日報表－選擇權: https://openapi.taifex.com.tw/v1/Daily_OPT
+
+期貨商交易量週報表－選擇權: https://openapi.taifex.com.tw/v1/Weekly_OPT
+
+期貨商交易量月報表－選擇權: https://openapi.taifex.com.tw/v1/Monthly_OPT
+
+期貨商交易量年報表－選擇權: https://openapi.taifex.com.tw/v1/Yearly_OPT
+
+保管銀行名冊: https://openapi.taifex.com.tw/v1/CustodianBankLists
+
+結算會員名冊: https://openapi.taifex.com.tw/v1/CMLists
+
+結算銀行名冊: https://openapi.taifex.com.tw/v1/ClearingBankLists
+
+期貨商總公司名冊: https://openapi.taifex.com.tw/v1/FCMLists
+
+期貨商分公司名冊: https://openapi.taifex.com.tw/v1/FCMBranchLists
+
+期貨商交易量週到期選擇權日報表: https://openapi.taifex.com.tw/v1/Daily_OPT_W
+
+交易人部位限制-非個股類: https://openapi.taifex.com.tw/v1/PositionLimitNonEquity
+
+交易人部位限制-個股類: https://openapi.taifex.com.tw/v1/PositionLimitEquity
+
+每日期貨每筆成交資料: https://openapi.taifex.com.tw/v1/TimeAndSalesData
+
+每日期貨價差委託成交概況表: https://openapi.taifex.com.tw/v1/DailyVolumeReportOnCalendarSpreadOrders
+
+每日期貨價差每筆成交資料: https://openapi.taifex.com.tw/v1/TimeAndSalesDataOnCalendarSpreadOrders
+
+每日選擇權每筆成交資料: https://openapi.taifex.com.tw/v1/OptionsTimeAndSalesData
+
+期貨商品造市者清單: https://openapi.taifex.com.tw/v1/MarketMakerListsFut
+
+選擇權商品造市者清單: https://openapi.taifex.com.tw/v1/MarketMakerListsOpt
+
+各商品年成交量統計表: https://openapi.taifex.com.tw/v1/AnnualTradingVolume
+
+股票期貨交易標的: https://openapi.taifex.com.tw/v1/SSFLists
+
+股票選擇權交易標的: https://openapi.taifex.com.tw/v1/SSOLists
+
+鉅額交易逐筆撮合之單式委託成交-期貨商品: https://openapi.taifex.com.tw/v1/BTContinuousMatchingSingleOrderFutures
+
+鉅額交易逐筆撮合之單式委託成交-選擇權商品: https://openapi.taifex.com.tw/v1/BTContinuousMatchingSingleOrderOptions
+
+鉅額交易各商品成交資訊-期貨商品: https://openapi.taifex.com.tw/v1/BTDailyTradeInformationFutures
+
+鉅額交易各商品成交資訊-選擇權商品: https://openapi.taifex.com.tw/v1/BTDailyTradeInformationOptions
+
+鉅額交易成交量統計-期貨商品: https://openapi.taifex.com.tw/v1/DailySummaryOfBlockTradeFutures
+
+鉅額交易成交量統計-選擇權商品: https://openapi.taifex.com.tw/v1/DailySummaryOfBlockTradeOptions
+
+最後結算價-期貨商品: https://openapi.taifex.com.tw/v1/FinalSettlementPriceFutures
+
+最後結算價-選擇權商品: https://openapi.taifex.com.tw/v1/FinalSettlementPriceOptions
+
+到期契約履約交割-期貨商品: https://openapi.taifex.com.tw/v1/SettledPositionsFutures
+
+到期契約履約交割-選擇權商品: https://openapi.taifex.com.tw/v1/SettledPositionsOptions
+
+兼營期貨商每股淨值明細表: https://openapi.taifex.com.tw/v1/NetValuePerShareS
+
+專營期貨商每股淨值明細表: https://openapi.taifex.com.tw/v1/NetValuePerShareF
+
+複委託期貨商每股淨值明細表: https://openapi.taifex.com.tw/v1/NetValuePerShareR
+
+兼營期貨商稅前累計損益明細表: https://openapi.taifex.com.tw/v1/AccumulatedIncomeStateS
+
+專營期貨商稅前累計損益明細表: https://openapi.taifex.com.tw/v1/AccumulatedIncomeStateF
+
+複委託期貨商稅前累計損益明細表: https://openapi.taifex.com.tw/v1/AccumulatedIncomeStateR
+
+兼營期貨商稅前損益排序表: https://openapi.taifex.com.tw/v1/NetIncomeRankingS
+
+專營期貨商稅前損益排序表: https://openapi.taifex.com.tw/v1/NetIncomeRankingF
+
+複委託期貨商稅前損益排序表: https://openapi.taifex.com.tw/v1/NetIncomeRankingR
+
+兼營期貨商稅前累計損益彙總表: https://openapi.taifex.com.tw/v1/IncomeStatementS
+
+專營期貨商稅前累計損益彙總表: https://openapi.taifex.com.tw/v1/IncomeStatementF
+
+複委託期貨商稅前累計損益彙總表: https://openapi.taifex.com.tw/v1/IncomeStatementR
+
+兼營期貨商每股稅前盈餘統計表: https://openapi.taifex.com.tw/v1/EPSBeforeTaxS
+
+專營期貨商每股稅前盈餘統計表: https://openapi.taifex.com.tw/v1/EPSBeforeTaxF
+
+複委託期貨商每股稅前盈餘統計表: https://openapi.taifex.com.tw/v1/EPSBeforeTaxR
+
+市場參與者統計: https://openapi.taifex.com.tw/v1/MarketParticipants
+
+期貨各類交易人各商品交易量統計表: https://openapi.taifex.com.tw/v1/MonthlyTradingStatisticsFutures
+
+選擇權各類交易人各商品交易量統計表: https://openapi.taifex.com.tw/v1/MonthlyTradingStatisticsOptions
+
+最後結算價-股票期貨: https://openapi.taifex.com.tw/v1/FinalSettlementPriceSSF
+
+最後結算價-股票選擇權: https://openapi.taifex.com.tw/v1/FinalSettlementPriceSSO
+
+最後結算價-股價指數類（指數期貨）: https://openapi.taifex.com.tw/v1/FinalSettlementPriceIndexFutures
+
+最後結算價-股價指數類（指數選擇權）: https://openapi.taifex.com.tw/v1/FinalSettlementPriceIndexOptions
+
+最後結算價-利率類: https://openapi.taifex.com.tw/v1/FinalSettlementPriceIR
+
+最後結算價-商品類: https://openapi.taifex.com.tw/v1/FinalSettlementPriceGold
+
+最後結算價-匯率類: https://openapi.taifex.com.tw/v1/FinalSettlementPriceFx
+
+到期契約履約交割-股價指數類（指數期貨）: https://openapi.taifex.com.tw/v1/SettledPositionsIndexFutures
+
+到期契約履約交割-股價指數類（指數選擇權）: https://openapi.taifex.com.tw/v1/SettledPositionsIndexOptions
+
+到期契約履約交割-股票類（股票期貨）: https://openapi.taifex.com.tw/v1/SettledPositionsSSF
+
+到期契約履約交割-股票類（股票選擇權）: https://openapi.taifex.com.tw/v1/SettledPositionsSSO
+
+到期契約履約交割-利率類: https://openapi.taifex.com.tw/v1/SettledPositionsIR
+
+到期契約履約交割-商品類: https://openapi.taifex.com.tw/v1/SettledPositionsGold
+
+到期契約履約交割-匯率類: https://openapi.taifex.com.tw/v1/SettledPositionsFX
+
+商品年成交量統計-股價指數類（指數期貨）: https://openapi.taifex.com.tw/v1/AnnualTradingIndexFutures
+
+商品年成交量統計-股價指數類（指數選擇權）: https://openapi.taifex.com.tw/v1/AnnualTradingIndexOptions
+
+商品年成交量統計-股票類（股票期貨）: https://openapi.taifex.com.tw/v1/AnnualTradingSSF
+
+商品年成交量統計-股票類（股票選擇權）: https://openapi.taifex.com.tw/v1/AnnualTradingSSO
+
+商品年成交量統計-利率類: https://openapi.taifex.com.tw/v1/AnnualTradingIR
+
+商品年成交量統計-商品類: https://openapi.taifex.com.tw/v1/AnnualTradingGold
+
+每月市場電子式交易下單統計（網路與DMA下單）: https://openapi.taifex.com.tw/v1/eTradeQty
+
+每日股票期貨交易量前十大統計表: https://openapi.taifex.com.tw/v1/STFTop10
+
+商品年成交量統計-匯率類: https://openapi.taifex.com.tw/v1/AnnualTradingFX
+
+到期契約履約交割-匯率期貨類: https://openapi.taifex.com.tw/v1/SettledPositionsFXFutures
+
+保證金一覽表-匯率類: https://openapi.taifex.com.tw/v1/FXFuturesAndOptionsMargining
+
+有價證券保證金之可抵繳標的增刪紀錄: https://openapi.taifex.com.tw/v1/AcceptableCollateralLogStock
+
+每日股價指數類選擇權未平倉量增減: https://openapi.taifex.com.tw/v1/va01
+
+每日個股選擇權未平倉量增減(區分股票與ETF): https://openapi.taifex.com.tw/v1/va02
+
+每日商品類選擇權未平倉量增減: https://openapi.taifex.com.tw/v1/va03
+
+股價指數類期貨商品每月平均成交金額: https://openapi.taifex.com.tw/v1/va04
+
+個股期貨商品每月平均成交金額(區分股票與ETF): https://openapi.taifex.com.tw/v1/va05
+
+利率期貨商品每月平均成交金額: https://openapi.taifex.com.tw/v1/va06
+
+股價指數類選擇權商品每月平均成交金額(權利金): https://openapi.taifex.com.tw/v1/va07
+
+個股選擇權商品每月平均成交金額(權利金-區分股票與ETF): https://openapi.taifex.com.tw/v1/va08
+
+商品類期貨每月平均成交金額: https://openapi.taifex.com.tw/v1/va09
+
+商品類選擇權每月平均成交金額(權利金): https://openapi.taifex.com.tw/v1/va10
+
+匯率類期貨每月平均成交金額: https://openapi.taifex.com.tw/v1/va11
+
+每日個股期貨交易量統計表（區分股票與ETF）: https://openapi.taifex.com.tw/v1/va12
+
+每月個股期貨交易量統計表（區分股票與ETF）: https://openapi.taifex.com.tw/v1/va13
+
+每年個股期貨交易量統計表（區分股票與ETF）: https://openapi.taifex.com.tw/v1/va14
+
